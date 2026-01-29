@@ -1,0 +1,4 @@
+dataset/faces/*
+__pycache__/
+*.pyc
+.env
